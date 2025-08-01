@@ -12,8 +12,6 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
- IoT Task 4 – Air Quality Monitoring System
-
 This project is a part of the CodTech IoT Internship.
 It demonstrates a simple air quality monitoring system using Arduino and a simulated MQ135 sensor (potentiometer) to read analog air quality levels. 
 The values are displayed on a 16x2 LCD and also printed to the Serial Monitor to simulate cloud data upload.
