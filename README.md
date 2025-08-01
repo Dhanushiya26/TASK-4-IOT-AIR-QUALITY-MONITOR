@@ -67,3 +67,4 @@ https://www.tinkercad.com/things/lzkiKijiSBd-iot-air-quality-monitor/editel?shar
 
 Output:
 
+<img width="1339" height="646" alt="Image" src="https://github.com/user-attachments/assets/d524fd38-9e74-47f7-aed7-fbc3621e4b10" />
